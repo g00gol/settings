@@ -1,0 +1,48 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "eq-material-theme-icons",
+  "files.autoSave": "afterDelay",
+  "git.autofetch": true,
+  "editor.formatOnPaste": true,
+  "javascript.format.semicolons": "insert",
+  "typescript.format.semicolons": "insert",
+  "git.confirmSync": false,
+  "git.openRepositoryInParentFolders": "never",
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "glassit.alpha": 255,
+  "explorer.confirmDragAndDrop": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.renderWhitespace": "all",
+  "workbench.statusBar.visible": false,
+  "workbench.editor.limit.enabled": true,
+  "workbench.activityBar.iconClickBehavior": "focus",
+  "workbench.colorTheme": "Catppuccin Macchiato",
+  "background.fullscreen": {
+    "image": "https://i.ytimg.com/vi/FJmNKdGrsR0/maxresdefault.jpg", // url of your image
+    // "image": ["https://pathtoimage.png"], // An array may be useful when set interval for carousel
+    "opacity": 0.91, // 0.85 ~ 0.95 recommended
+    "size": "cover", // also css, `cover` to self-adaption (recommended)，or `contain`、`200px 200px`
+    "position": "center", // alias to `background-position`, default `center`
+    "interval": 0 // seconds of interval for carousel, default `0` to disabled.
+  },
+  "workbench.editor.showTabs": false,
+  "search.actionsPosition": "auto",
+  "editor.minimap.enabled": false,
+  "editor.minimap.renderCharacters": false,
+  "terminal.integrated.defaultProfile.linux": "tmux",
+  "editor.inlineSuggest.enabled": true,
+  "settingsSync.ignoredExtensions": [
+    "zokugun.sync-settings",
+    "zokugun.cron-tasks"
+  ],
+  "git.suggestSmartCommit": false,
+  "workbench.activityBar.visible": false
+}
