@@ -133,7 +133,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   Changes\",\"isBuiltin\":true,\"views\":[]}]"
 workbench.activityBar.hidden: "false"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["search-result",true],["html",true],["dockercompose",true],["shellscript",true],["properties",true],["json",true],["python",true],["handlebars",true],["jsonc",true],["javascript",true],["yaml",true],["plaintext",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["search-result",true],["html",true],["dockercompose",true],["shellscript",true],["properties",true],["json",true],["python",true],["handlebars",true],["jsonc",true],["javascript",true],["plaintext",true],["yaml",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"gitlens.views.repositories:explorer","isHidden":false},{"id":"gitlens.views.fileHistory:explorer","isHidden":false},{"id":"gitlens.views.lineHistory:explorer","isHidden":false},{"id":"gitlens.views.compare:explorer","isHidden":false},{"id":"gitlens.views.search:explorer","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"cSpellRegExpView","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
@@ -143,7 +143,7 @@ workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
 workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"workbench.panel.repl","name":"Debug
   Console","pinned":true,"order":2,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"workbench.panel.testResults","name":"Test
-  Results","pinned":true,"order":3,"visible":false},{"id":"~remote.forwardedPortsContainer","name":"Ports","pinned":true,"order":5,"visible":false},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","pinned":true,"order":6,"visible":false},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","pinned":true,"order":7,"visible":false},{"id":"workbench.panel.comments","name":"Comments","pinned":true,"order":10,"visible":false},{"id":"refactorPreview","name":"Refactor
+  Results","pinned":true,"order":3,"visible":false},{"id":"~remote.forwardedPortsContainer","name":"Ports","pinned":true,"order":5,"visible":false},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","pinned":true,"order":6,"visible":true},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","pinned":true,"order":7,"visible":false},{"id":"workbench.panel.comments","name":"Comments","pinned":true,"order":10,"visible":false},{"id":"refactorPreview","name":"Refactor
   Preview","pinned":true,"visible":false}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "314"
