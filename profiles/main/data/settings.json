@@ -23,7 +23,7 @@
   "workbench.statusBar.visible": false,
   "workbench.editor.limit.enabled": true,
   "workbench.activityBar.iconClickBehavior": "focus",
-  "workbench.colorTheme": "Catppuccin Macchiato",
+  "workbench.colorTheme": "Catppuccin Frappé",
   "background.fullscreen": {
     "images": ["https://static.vecteezy.com/system/resources/previews/010/823/943/original/anime-city-night-background-vector.jpg"], // url of your image
     "opacity": 0.95, // 0.85 ~ 0.95 recommended
@@ -32,7 +32,6 @@
     "interval": 0 // seconds of interval for carousel, default `0` to disabled.
   },
   "workbench.editor.showTabs": false,
-  "search.actionsPosition": "auto",
   "editor.minimap.enabled": false,
   "editor.minimap.renderCharacters": false,
   "terminal.integrated.defaultProfile.linux": "tmux",
@@ -42,11 +41,12 @@
     "zokugun.cron-tasks"
   ],
   "git.suggestSmartCommit": false,
-  "workbench.activityBar.visible": false,
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "window.zoomLevel": 1,
   "editor.tabSize": 2,
-  "typescript.updateImportsOnFileMove.enabled": "always"
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "search.actionsPosition": "auto",
+  "workbench.activityBar.visible": false
 }
