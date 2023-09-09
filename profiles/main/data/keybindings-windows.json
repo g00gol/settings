@@ -131,21 +131,12 @@
   {
     "key": "shift+n",
     "command": "explorer.newFolder",
-    "when": "filesExplorerFocus"
-  },
-  {
-    "key": "ctrl+n",
-    "command": "welcome.showNewFileEntries",
-    "when": "filesExplorerFocus"
-  },
-  {
-    "key": "ctrl+alt+win+n",
-    "command": "-welcome.showNewFileEntries"
+    "when": "filesExplorerFocus && !inputFocus"
   },
   {
     "key": "n",
     "command": "explorer.newFile",
-    "when": "filesExplorerFocus"
+    "when": "filesExplorerFocus && !inputFocus"
   },
   {
     "key": "ctrl+c f",

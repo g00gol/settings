@@ -44,9 +44,12 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 2,
   "editor.tabSize": 2,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "search.actionsPosition": "auto",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "workbench.activityBar.visible": false
 }
